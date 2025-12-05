@@ -1,0 +1,26 @@
+{
+  "name": "title-case",
+  "version": "1.0.0",
+  "description": "A simple package that accepts a string and returns the title case converted string",
+  "keywords": [
+    "title-case",
+    "string-to-title-case",
+    "titlCase",
+    "case"
+  ],
+  "homepage": "https://github.com/Ng-Ayush/title-case#readme",
+  "bugs": {
+    "url": "https://github.com/Ng-Ayush/title-case/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ng-Ayush/title-case.git"
+  },
+  "license": "MIT",
+  "author": "Ayush Srivastava",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test && npm run build"
+  }
+}
